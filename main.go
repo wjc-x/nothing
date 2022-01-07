@@ -14,8 +14,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Trojan-Qt5/go-shadowsocks2/core"
-	"github.com/Trojan-Qt5/go-shadowsocks2/socks"
+	"github.com/wjc-x/nothing/core"
+	"github.com/wjc-x/nothing/socks"
 )
 
 var config struct {
