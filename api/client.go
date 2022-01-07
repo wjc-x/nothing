@@ -5,7 +5,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/Trojan-Qt5/go-shadowsocks2/stat"
+	"github.com/wjc-x/nothing/stat"
 	"google.golang.org/grpc"
 )
 
