@@ -1,4 +1,4 @@
-module github.com/Trojan-Qt5/go-shadowsocks2
+module github.com/wjc-x/nothing
 
 go 1.12
 
