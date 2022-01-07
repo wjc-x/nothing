@@ -3,8 +3,8 @@ package main
 import (
 	"net"
 
-	"github.com/Trojan-Qt5/go-shadowsocks2/pfutil"
-	"github.com/Trojan-Qt5/go-shadowsocks2/socks"
+	"github.com/wjc-x/nothing/pfutil"
+	"github.com/wjc-x/nothing/socks"
 )
 
 func redirLocal(addr, server string, shadow func(net.Conn) net.Conn) {
