@@ -8,7 +8,7 @@ import (
 
 	"sync"
 
-	"github.com/Trojan-Qt5/go-shadowsocks2/socks"
+	"github.com/wjc-x/nothing/socks"
 )
 
 type mode int
