@@ -7,7 +7,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/Trojan-Qt5/go-shadowsocks2/internal"
+	"github.com/wjc-x/nothing/internal"
 )
 
 // payloadSizeMask is the maximum size of payload in bytes.
