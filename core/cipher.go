@@ -7,8 +7,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Trojan-Qt5/go-shadowsocks2/shadowaead"
-	"github.com/Trojan-Qt5/go-shadowsocks2/shadowstream"
+	"github.com/wjc-x/nothing/shadowaead"
+	"github.com/wjc-x/nothing/shadowstream"
 )
 
 type Cipher interface {
