@@ -4,9 +4,9 @@ import "C"
 import (
 	"context"
 
-	"github.com/Trojan-Qt5/go-shadowsocks2/api"
-	"github.com/Trojan-Qt5/go-shadowsocks2/core"
-	"github.com/Trojan-Qt5/go-shadowsocks2/stat"
+	"github.com/wjc-x/nothing/api"
+	"github.com/wjc-x/nothing/core"
+	"github.com/wjc-x/nothing/stat"
 )
 
 var (
