@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/Trojan-Qt5/go-shadowsocks2/socks"
+	"github.com/wjc-x/nothing/socks"
 )
 
 // Create a SOCKS server listening on addr and proxy to server.
