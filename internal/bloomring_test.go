@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Trojan-Qt5/go-shadowsocks2/internal"
+	"github.com/wjc-x/nothing/internal"
 )
 
 var (
